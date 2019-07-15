@@ -25,6 +25,7 @@ github_username:  jekyll
 # Build settings
 future: true
 markdown: kramdown
+encoding: utf-8
 plugins:
   - jekyll-feed
 
@@ -38,4 +39,4 @@ plugins:
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
-#   - vendor/ruby/
+#   - vendor/ruby/  
